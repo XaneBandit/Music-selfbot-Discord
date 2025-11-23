@@ -88,3 +88,7 @@ Feel free to open a pull request or participate in discussions on the Discord se
 - Re-selling or redistributing this code will result in a permanent ban from the support community.  
 - Use this project responsibly.  
 - The author is not accountable for misuse, violations, or account bans caused by self-botting.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=asnehitadas-71/Music-selfbot-Discord&type=date&legend=top-left)](https://www.star-history.com/#asnehitadas-71/Music-selfbot-Discord&type=date&legend=top-left)

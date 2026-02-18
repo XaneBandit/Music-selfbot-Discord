@@ -1,5 +1,5 @@
 {
-  "noPrefixMode": true,
+  "noPrefixMode": false,
   "rateLimits": {
     "maxCommands": 5,
     "timeWindow": 10000
